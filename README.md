@@ -1,5 +1,7 @@
 # Developer Guidelines
 
+Test
+
 Some rules and advice for developers who want to contribute to this project and keep it 
 human friendly.
 
